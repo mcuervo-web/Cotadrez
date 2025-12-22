@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="64mm"
+   height="64mm"
+   viewBox="0 0 64 64"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="rMontana.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="-302.59841"
+     inkscape:cy="701.85533"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1600"
+     inkscape:window-height="840"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-233)">
+    <g
+       id="g1228"
+       transform="translate(74.102235,639.03061)">
+      <circle
+         style="fill:#ff0000;fill-opacity:1;stroke:#d4aa00;stroke-width:1;stroke-opacity:1"
+         id="circle1140"
+         cx="-40.82143"
+         cy="-373.5401"
+         r="26.080357" />
+      <path
+         style="fill:#d4aa00;fill-opacity:1;stroke:#d4aa00;stroke-width:0.49684557px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m -60.978947,-378.40241 11.711347,-9.93692 3.194021,-0.70978 4.968449,3.72635 -1.774428,2.30678 -1.774486,0.17745 1.597011,1.06466 1.774485,-1.06466 1.596954,-2.12934 2.306816,-1.9519 0.887205,-1.41956 4.613575,0.70979 3.016583,2.66167 2.484235,-0.17745 2.661652,2.66167 0.532312,2.12934 -4.613556,-2.83911 -2.839128,0.35489 -2.661652,1.59699 3.726351,1.59702 1.774429,3.194 -3.016546,-2.12934 -1.774429,1.24211 -0.354893,-1.59701 -0.887224,-0.35487 0.177456,2.30678 -1.774429,-2.30678 1.242117,-2.3068 -2.839127,1.95191 0.532311,1.59699 0.709806,1.59701 -0.177456,1.24211 -1.242117,0.53233 -0.532312,-2.30677 -0.709806,-1.95191 -1.064642,1.59701 -0.177456,1.41956 -1.242098,0.88722 -1.064642,-0.53233 -0.532331,1.59701 -1.419592,-0.17745 0.177456,-1.95189 -0.177456,-0.88722 -3.548858,3.37144 -2.129378,1.77446 -3.548877,1.95189 -0.709786,-0.88723 2.66169,-3.194 2.661653,-3.54889 4.613556,-2.48424 -1.774429,-0.88722 -1.242117,0.70978 -0.887205,-0.53234 -1.951922,2.30679 -0.709787,-1.9519 -1.419536,0.70979 -0.532311,-1.77445 -1.597029,0.53233 -0.532369,1.77445 -1.242098,1.06466 -2.661653,1.06468 -1.242117,2.30677 0.354894,2.66168 2.661652,2.30679 1.597011,2.12933 h 1.951903 l 1.951904,-2.30678 4.968468,-0.3549 3.193965,-1.77444 -0.709749,2.66167 3.548876,-1.59699 3.903808,-2.12934 3.371458,0.53233 -1.064699,-1.59701 2.661709,0.17745 -2.129378,-1.59701 2.839108,-0.88722 3.016603,1.06468 3.193983,-0.3549 1.419573,-3.19402 6.844655,2.50732 c 0.407216,7.92416 -1.554118,13.26839 -4.537896,17.72139 -5.267679,6.17915 -10.446722,8.33683 -16.479257,9.52217 -9.951419,1.76791 -19.783695,-4.95683 -22.69925,-8.50581 -3.181367,-4.32309 -5.079964,-8.89343 -5.76118,-14.57356 z"
+         id="path1221"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
+      <ellipse
+         style="fill:#d4aa00;fill-opacity:1;stroke:#d4aa00;stroke-width:2.6202569;stroke-opacity:1"
+         id="ellipse1223"
+         cx="-42.461655"
+         cy="-393.30243"
+         rx="3.1443086"
+         ry="3.170511" />
+    </g>
+  </g>
+</svg>
